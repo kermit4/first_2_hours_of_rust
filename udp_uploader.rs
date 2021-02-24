@@ -65,7 +65,7 @@ fn main() {
 
 				socket.send_to(m,&src);
 				
-				if (m.offset%100) == 0 {
+				if (m.offset%100) == 0 { // should be random, but I had a hard time importing that
 					m.offset=u.firstmissing;
 					socket.send_to(m,&src);
 				}
