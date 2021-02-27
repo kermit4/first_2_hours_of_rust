@@ -1,3 +1,5 @@
+This repo is point in time to show learning speed and applicability of non-Rust background to Rust programming, see further progress at https://github.com/kermit4/first_8_hours_of_rust  
+
 If run with no args, it will listen for uploads - not yet working
 
 With args it will send them - unwritten
