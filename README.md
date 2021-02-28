@@ -1,10 +1,7 @@
-This repo is point in time to show learning speed and applicability of non-Rust background to Rust programming, see further progress at https://github.com/kermit4/first_8_hours_of_rust  
+NOT WORKING
 
-If run with no args, it will listen for uploads - not yet working
+This repo is only a snapshot to show my Rust learning speed and the applicability of my non-Rust background to Rust programming, see the next 6 hours at https://github.com/kermit4/first_8_hours_of_rust     
 
-With args it will send them - unwritten
+If run with no args, it is intended to listen for uploads - not yet working
 
-
-It's pulled from the server side, once the client sends the first block.
-
-Every 100 packets adds one to the number in flight to increase the in-flight window. 
+With args it is intened to send a file - unwritten
